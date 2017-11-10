@@ -1,0 +1,118 @@
+
+body { 
+	background-color: #FFF;      
+}
+h3  {
+	position: absolute;
+	left: 320px;
+	top: 60px;
+        
+}
+.infophoto{
+position: absolute;
+top:60px;
+width: 28%;
+border:solid 2px #ADD8E6;
+padding:10px;
+        // margin-left: 35%;
+	
+}
+.corps{
+position: absolute;
+	left: 320px;
+	top: 150px;
+width: 67%;
+
+}
+.c1{
+
+background-color:#B0E0E6;
+}
+.c2{
+
+background-color:#ADD8E6;
+}
+.c4{
+padding-left:0px;
+padding-right:30px;
+font-weight:bold;
+}
+.c5{
+padding-left:100px;
+margin-top:-20px;
+
+}
+.c6{
+padding-right:500px;
+font-weight:bold;
+}
+
+.c7{
+padding-left:100px;
+//margin-top:-30px;
+}
+#i1{
+padding-left:100px;
+margin-top:-55px;
+}
+#i2{
+padding-left:100px;
+margin-top:-20px;
+}
+
+#i3{
+padding-left:100px;
+margin-top:-40px;
+}
+#i4{
+padding-left:100px;
+margin-top:-40px;
+}
+
+#i5{
+padding-left:100px;
+margin-top:-40px;
+}
+#i6{
+padding-left:100px;
+margin-top:-40px;
+}
+.c7{
+padding-left:0px;
+margin-top:0px;
+font-weight:bold;
+}
+.c8{
+padding-left:60px;
+margin-top:-20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
