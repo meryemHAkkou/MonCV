@@ -1,16 +1,32 @@
-@media only  screen and (max-width: 740px)
-{
-    .infoPhoto{
-background-color: red;      
-}
+
+.infophoto{
+
+
+  }
+.corps{
+
 }
 
-@media only  screen and (max-width: 570px)
-{
-    /* Rédigez vos propriétés CSS ici */
+
+@media only screen and (max-width: 740px) {
+
+.corps{
+
+
+ }
+
 }
 
-@media only  screen and (max-width: 570px)
-{
-    /* Rédigez vos propriétés CSS ici */
-}
+ 
+
+
+
+ @media only screen and (max-width: 570px) {
+
+.infophoto, .corps{
+
+width:100%;
+
+ }
+
+    }
